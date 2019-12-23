@@ -1,1 +1,2 @@
 truncate all words
+add new line
