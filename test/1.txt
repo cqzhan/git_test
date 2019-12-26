@@ -2,6 +2,6 @@ truncate all words
 add new line
 add second line
 hell dev
-hello master 2
+hello master 3
 hello dev1 
 hello dev2
