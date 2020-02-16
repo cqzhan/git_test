@@ -1,1 +1,6 @@
-add with master 2020 
+<<<<<<< HEAD
+add with master 
+=======
+add with master
+add with feature1 
+>>>>>>> feature1
