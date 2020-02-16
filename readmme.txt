@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 add with master 
-=======
-add with master
-add with feature1 
->>>>>>> feature1
